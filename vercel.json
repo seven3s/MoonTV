@@ -9,5 +9,8 @@
         }
       ]
     }
-  ]
+  ],
+  "buildAndDeploy": {
+    "baseBranch": "d1"
+  }
 }
